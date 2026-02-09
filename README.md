@@ -10,10 +10,12 @@ CSS
 JavaScript
 </il>
 <br>
+<br>
 <p>Ao executar o login com as credencias 'admin' em ambos inputs, o redirecionamento para a página de 'Bem Vindo' será efetuado.</p>
 <img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/6d40988c-e737-4383-a0f7-a62c075b681f" />
 <br>
 <img width="1919" height="935" alt="image" src="https://github.com/user-attachments/assets/a81aa72d-624a-40af-98cd-902642dc9433" />
+<br>
 <br>
 <p>Ao tentar logar com outro login/senha, será emitido um alerta de 'Login ou senha incorretos'</p>
 <br>
